@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PicfilLib.csproj.GenerateResource.Cache
+bin\Debug\PicfilLib.dll
+bin\Debug\PicfilLib.pdb
+obj\Debug\PicfilLib.dll
+obj\Debug\PicfilLib.pdb
+obj\Debug\PicfilLib.FormBoard.resources

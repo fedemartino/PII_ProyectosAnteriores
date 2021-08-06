@@ -1,0 +1,11 @@
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\ConsoleApplication1\bin\Debug\PainterLib.dll
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\ConsoleApplication1\bin\Debug\UcuLifeLib.dll
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\ConsoleApplication1\bin\Debug\PainterLib.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\ConsoleApplication1\bin\Debug\UcuLifeLib.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2010\obligatorio\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2010\obligatorio\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

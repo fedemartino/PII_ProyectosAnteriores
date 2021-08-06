@@ -1,0 +1,9 @@
+C:\Documents and Settings\Santi\Desktop\UCU\POO\2008-01\proyectos\Ejercicio3\UcuLifeLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Santi\Desktop\UCU\POO\2008-01\proyectos\Ejercicio3\UcuLifeLib\obj\Debug\UcuLifeLib.MainGui.resources
+C:\Documents and Settings\Santi\Desktop\UCU\POO\2008-01\proyectos\Ejercicio3\UcuLifeLib\obj\Debug\UcuLifeLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Santi\Desktop\UCU\POO\2008-01\proyectos\Ejercicio3\UcuLifeLib\bin\Debug\UcuLifeLib.dll
+C:\Documents and Settings\Santi\Desktop\UCU\POO\2008-01\proyectos\Ejercicio3\UcuLifeLib\bin\Debug\UcuLifeLib.pdb
+C:\Documents and Settings\Santi\Desktop\UCU\POO\2008-01\proyectos\Ejercicio3\UcuLifeLib\bin\Debug\PainterLib.dll
+C:\Documents and Settings\Santi\Desktop\UCU\POO\2008-01\proyectos\Ejercicio3\UcuLifeLib\bin\Debug\PainterLib.pdb
+C:\Documents and Settings\Santi\Desktop\UCU\POO\2008-01\proyectos\Ejercicio3\UcuLifeLib\obj\Debug\UcuLifeLib.dll
+C:\Documents and Settings\Santi\Desktop\UCU\POO\2008-01\proyectos\Ejercicio3\UcuLifeLib\obj\Debug\UcuLifeLib.pdb

@@ -1,0 +1,16 @@
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\PainterLib\PainterLib\bin\Debug\PainterLib.dll
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\PainterLib\PainterLib\bin\Debug\PainterLib.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\PainterLib\PainterLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\PainterLib\PainterLib\obj\Debug\PainterLib.FormBoard.resources
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\PainterLib\PainterLib\obj\Debug\ResGen.read.1.tlog
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\PainterLib\PainterLib\obj\Debug\ResGen.write.1.tlog
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\PainterLib\PainterLib\obj\Debug\PainterLib.dll
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\PainterLib\PainterLib\obj\Debug\PainterLib.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\PainterLib\bin\Debug\PainterLib.dll
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\PainterLib\bin\Debug\PainterLib.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\PainterLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\PainterLib\obj\Debug\PainterLib.FormBoard.resources
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\PainterLib\obj\Debug\ResGen.read.1.tlog
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\PainterLib\obj\Debug\ResGen.write.1.tlog
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\PainterLib\obj\Debug\PainterLib.dll
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\PainterLib\obj\Debug\PainterLib.pdb

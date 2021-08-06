@@ -1,0 +1,161 @@
+<square id="baseAspas" X="45" Y="35" length="10"/>
+<rectangle id="pared" X="65" Y="0" width="30" breadth="55"/>
+<rectangle id="puerta" X="65" Y="10" width="10" breadth="20"/>
+<square id="contorno" X="80" Y="85" length="20"/>
+<square id="relleno1" X="81" Y="86" length="20"/>
+<square id="relleno2" X="82" Y="87" length="20"/>
+<square id="relleno3" X="83" Y="88" length="20"/>
+<square id="relleno4" X="84" Y="89" length="20"/>
+<square id="relleno5" X="85" Y="90" length="20"/>
+<square id="relleno6" X="86" Y="91" length="20"/>
+<square id="relleno7" X="87" Y="92" length="20"/>
+<square id="relleno8" X="88" Y="93" length="20"/>
+<square id="relleno9" X="89" Y="94" length="20"/>
+<square id="relleno10" X="90" Y="95" length="20"/>
+<square id="relleno11" X="91" Y="96" length="20"/>
+<square id="relleno12" X="92" Y="97" length="20"/>
+<square id="relleno13" X="93" Y="98" length="20"/>
+<square id="relleno14" X="94" Y="99" length="20"/>
+
+<drawing id="sol" components="contorno relleno1 relleno2 relleno3 relleno4 relleno5 relleno6 relleno7 relleno8 relleno9 relleno10 relleno11 relleno12 relleno13 relleno14"/>
+<drawing id="cuerpo" components="pared puerta"/>
+<rotation x="65" y="0" angle="90" figure="cuerpo"/>
+<paint figure="sol" color="yellow"/>
+<paint figure="cuerpo" color="brown"/>
+
+<triangle id="aspa1" X="35" Y="10" base="15" height="25"/>
+<triangle id="aspa2" X="35" Y="10" base="15" height="25"/>
+<triangle id="aspa3" X="35" Y="10" base="15" height="25"/>
+<triangle id="aspa4" X="35" Y="10" base="15" height="25"/>
+<simetry figure="aspa3" x="50" y="40"/>
+<rotation x="50" y="40" angle="90" figure="aspa2"/>
+<rotation x="50" y="40" angle="-90" figure="aspa4"/>
+
+<triangle id="pasto1" X="0" Y="0" base="10" height="11"/>
+<triangle id="pasto2" X="10" Y="0" base="10" height="11"/>
+<triangle id="pasto3" X="20" Y="0" base="10" height="11"/>
+<triangle id="pasto4" X="30" Y="0" base="6" height="11"/>
+
+<drawing id="pastosIzq" components="pasto1 pasto2 pasto3 pasto4"/>
+<paint figure="pastosIzq" color="green"/>
+
+<translation x="0" y="-1" figure="pastosIzq"/>
+<paint figure="pastosIzq" color="green"/>
+<translation x="0" y="-1" figure="pastosIzq"/>
+<paint figure="pastosIzq" color="green"/>
+<translation x="0" y="-1" figure="pastosIzq"/>
+<paint figure="pastosIzq" color="green"/>
+<translation x="0" y="-1" figure="pastosIzq"/>
+<paint figure="pastosIzq" color="green"/>
+<translation x="0" y="4" figure="pastosIzq"/>
+
+<translation x="65" y="0" figure="pastosIzq"/>
+<paint figure="pastosIzq" color="green"/>
+
+<translation x="0" y="-1" figure="pastosIzq"/>
+<paint figure="pastosIzq" color="green"/>
+<translation x="0" y="-1" figure="pastosIzq"/>
+<paint figure="pastosIzq" color="green"/>
+<translation x="0" y="-1" figure="pastosIzq"/>
+<paint figure="pastosIzq" color="green"/>
+<translation x="0" y="-1" figure="pastosIzq"/>
+<paint figure="pastosIzq" color="green"/>
+<translation x="0" y="4" figure="pastosIzq"/>
+
+<rectangle id="cuerpoPajaro" X="5" Y="85" width="5" breadth="10"/>
+<rectangle id="pico" X="15" Y="87" width="2" breadth="3"/>
+<triangle id="ala1" X="8" Y="89" base="4" height="6"/>
+<triangle id="ala2" X="8" Y="89" base="4" height="6"/>
+<simetry x="10" y="87" figure="ala2"/>
+<simetry-x coordinate="10" figure="ala1"/>
+
+
+<drawing id="pajaro" components="cuerpoPajaro pico ala1 ala2"/>
+<drawing id="aspas" components="baseAspas aspa1 aspa2 aspa3 aspa4"/>
+
+<paint figure="aspas" color="orange"/>
+<paint figure="pajaro" color="blue"/>
+
+<pause millis="300"/>
+<paint figure="pajaro" color="black"/>
+<translation figure="pajaro" x="10" y="-5"/>
+<paint figure="aspas" color="black"/>
+<paint figure="cuerpo" color="brown"/>
+<rotation x="50" y="40" angle="45" figure="aspas"/>
+<paint figure="aspas" color="green"/>
+<paint figure="pajaro" color="blue"/>
+
+<pause millis="300"/>
+<paint figure="pajaro" color="black"/>
+<translation figure="pajaro" x="10" y="5"/>
+<paint figure="aspas" color="black"/>
+<paint figure="cuerpo" color="brown"/>
+<rotation x="50" y="40" angle="45" figure="aspas"/>
+<paint figure="aspas" color="violet"/>
+<paint figure="pajaro" color="blue"/>
+
+<pause millis="300"/>
+<paint figure="pajaro" color="black"/>
+<translation figure="pajaro" x="10" y="-5"/>
+<paint figure="aspas" color="black"/>
+<paint figure="cuerpo" color="brown"/>
+<rotation x="50" y="40" angle="45" figure="aspas"/>
+<paint figure="aspas" color="blue"/>
+<paint figure="pajaro" color="blue"/>
+
+<pause millis="300"/>
+<paint figure="pajaro" color="black"/>
+<translation figure="pajaro" x="10" y="10"/>
+<paint figure="aspas" color="black"/>
+<paint figure="cuerpo" color="brown"/>
+<rotation x="50" y="40" angle="45" figure="aspas"/>
+<paint figure="aspas" color="orange"/>
+<paint figure="pajaro" color="blue"/>
+
+<pause millis="300"/>
+<paint figure="pajaro" color="black"/>
+<translation figure="pajaro" x="10" y="-5"/>
+<paint figure="aspas" color="black"/>
+<paint figure="cuerpo" color="brown"/>
+<rotation x="50" y="40" angle="45" figure="aspas"/>
+<paint figure="aspas" color="green"/>
+<paint figure="pajaro" color="blue"/>
+
+<pause millis="300"/>
+<paint figure="pajaro" color="black"/>
+<translation figure="pajaro" x="10" y="-5"/>
+<paint figure="aspas" color="black"/>
+<paint figure="cuerpo" color="brown"/>
+<rotation x="50" y="40" angle="45" figure="aspas"/>
+<paint figure="aspas" color="violet"/>
+<paint figure="pajaro" color="blue"/>
+
+<pause millis="300"/>
+<paint figure="pajaro" color="black"/>
+<translation figure="pajaro" x="10" y="-5"/>
+<paint figure="aspas" color="black"/>
+<paint figure="cuerpo" color="brown"/>
+<rotation x="50" y="40" angle="45" figure="aspas"/>
+<paint figure="aspas" color="blue"/>
+<paint figure="pajaro" color="blue"/>
+
+
+<pause millis="300"/>
+<paint figure="pajaro" color="black"/>
+<translation figure="pajaro" x="10" y="-5"/>
+<paint figure="aspas" color="black"/>
+<paint figure="cuerpo" color="brown"/>
+<rotation x="50" y="40" angle="45" figure="aspas"/>
+<paint figure="aspas" color="orange"/>
+<paint figure="pajaro" color="blue"/>
+<paint figure="sol" color="yellow"/>
+
+<pause millis="300"/>
+<paint figure="pajaro" color="black"/>
+<translation figure="pajaro" x="10" y="-5"/>
+<paint figure="aspas" color="black"/>
+<paint figure="cuerpo" color="brown"/>
+<rotation x="50" y="40" angle="45" figure="aspas"/>
+<paint figure="aspas" color="orange"/>
+<paint figure="pajaro" color="black"/>
+<paint figure="sol" color="yellow"/>

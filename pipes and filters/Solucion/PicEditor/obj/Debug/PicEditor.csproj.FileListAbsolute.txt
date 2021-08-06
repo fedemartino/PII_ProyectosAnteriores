@@ -1,0 +1,77 @@
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\bin\Debug\PicEditor.exe
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\bin\Debug\PicEditor.pdb
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\bin\Debug\PicfilLib.dll
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\bin\Debug\PicfilLib.pdb
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\obj\Debug\PicEditor.Properties.Resources.resources
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\obj\Debug\PicEditor.csproj.GenerateResource.Cache
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\obj\Debug\PicEditor.exe
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\obj\Debug\PicEditor.pdb
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\bin\Debug\Archivo.txt
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\bin\Debug\ExerciseOne.exe
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\bin\Debug\nunit.framework.dll
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\bin\Debug\ExerciseOne.pdb
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\bin\Debug\nunit.framework.xml
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\bin\Debug\Recursos\Mario.gif
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\bin\Debug\Recursos\pruebaTags.txt
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\bin\Debug\Recursos\sr.jpg
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\bin\Debug\Recursos\TestImage.bmp
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\bin\Debug\Recursos\PruebaColores.gif
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\PicEditor\obj\Debug\PicEditor.Form1.resources
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\obj\Debug\PicEditor.exe
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\obj\Debug\PicEditor.pdb
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\Archivo.txt
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\Recursos\Mario.gif
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\Recursos\PruebaColores.gif
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\Recursos\pruebaTags.txt
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\Recursos\sr.jpg
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\Recursos\TestImage.bmp
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\PicEditor.exe
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\PicEditor.pdb
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\ExerciseOne.exe
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\nunit.framework.dll
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\PicfilLib.dll
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\PicfilLib.pdb
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\ExerciseOne.pdb
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\nunit.framework.xml
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\obj\Debug\PicEditor.Properties.Resources.resources
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\obj\Debug\PicEditor.csproj.GenerateResource.Cache
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\PicEditor\obj\Debug\PicEditor.FormSelector.resources
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\PicEditor\obj\Debug\PicEditor.exe
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\PicEditor\obj\Debug\PicEditor.pdb
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\Archivo.txt
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\Recursos\Mario.gif
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\Recursos\PruebaColores.gif
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\Recursos\pruebaTags.txt
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\Recursos\sr.jpg
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\Recursos\TestImage.bmp
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\PicEditor.exe
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\PicEditor.pdb
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\ExerciseOne.exe
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\PicfilLib.dll
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\ExerciseOne.pdb
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\PicfilLib.pdb
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\PicEditor\bin\Debug\nunit.framework.xml
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\PicEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\PicEditor\obj\Debug\PicEditor.FormSelector.resources
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\PicEditor\obj\Debug\PicEditor.Properties.Resources.resources
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\obj\Debug\PicEditor.exe
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\obj\Debug\PicEditor.pdb
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\bin\Debug\Archivo.txt
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\bin\Debug\Recursos\Mario.gif
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\bin\Debug\Recursos\PruebaColores.gif
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\bin\Debug\Recursos\pruebaTags.txt
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\bin\Debug\Recursos\sr.jpg
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\bin\Debug\Recursos\TestImage.bmp
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\bin\Debug\PicEditor.exe
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\bin\Debug\PicEditor.pdb
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\bin\Debug\ExerciseOne.exe
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\bin\Debug\PicfilLib.dll
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\bin\Debug\ExerciseOne.pdb
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\bin\Debug\PicfilLib.pdb
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\bin\Debug\nunit.framework.xml
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\obj\Debug\PicEditor.csprojResolveAssemblyReference.cache
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\obj\Debug\PicEditor.FormSelector.resources
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\obj\Debug\PicEditor.Properties.Resources.resources
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\PicEditor\obj\Debug\PicEditor.csproj.GenerateResource.Cache

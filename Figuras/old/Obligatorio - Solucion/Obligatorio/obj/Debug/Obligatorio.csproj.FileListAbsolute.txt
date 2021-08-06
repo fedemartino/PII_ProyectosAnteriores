@@ -1,0 +1,32 @@
+C:\Documents and Settings\ingenieria\Mis documentos\Marcela Rodríguez\POO\Santiago\Obligatorios\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\bin\Debug\Obligatorio.XML
+C:\Documents and Settings\ingenieria\Mis documentos\Marcela Rodríguez\POO\Santiago\Obligatorios\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Documents and Settings\ingenieria\Mis documentos\Marcela Rodríguez\POO\Santiago\Obligatorios\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ingenieria\Mis documentos\Marcela Rodríguez\POO\Santiago\Obligatorios\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Documents and Settings\ingenieria\Mis documentos\Marcela Rodríguez\POO\Santiago\Obligatorios\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.Cache
+C:\Documents and Settings\ingenieria\Mis documentos\Marcela Rodríguez\POO\Practico\Obligatorios\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\bin\Debug\Obligatorio.XML
+C:\Documents and Settings\ingenieria\Mis documentos\Marcela Rodríguez\POO\Practico\Obligatorios\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2_2006\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\bin\Debug\Obligatorio.XML
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2_2006\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2_2006\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2_2006\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2_2006\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\bin\Debug\archivo.txt
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2_2006\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2_2006\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2_2006\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\bin\Debug\Ejercicio3Lib.dll
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2_2006\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\bin\Debug\Ejercicio3Lib.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2_2006\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\bin\Debug\archivo.txt
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\bin\Debug\Ejercicio3Lib.dll
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\bin\Debug\Ejercicio3Lib.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\old\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\old\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\old\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\obj\Debug\Obligatorio.pdb

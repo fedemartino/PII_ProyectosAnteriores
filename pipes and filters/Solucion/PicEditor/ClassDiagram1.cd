@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PicEditor.Filtros.Constructores.FilterBlurBuilder" Collapsed="true">
+    <Position X="1" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\Constructores\FilterBlurBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.Filtros.Constructores.FilterBuilder" Collapsed="true">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAgABAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\Constructores\FilterBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PicEditor.Filtros.Constructores.FilterBWBuilder" Collapsed="true">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\Constructores\FilterBWBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.Filtros.Constructores.FilterEmbossBuilder" Collapsed="true">
+    <Position X="7.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\Constructores\FilterEmbossBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.Filtros.Constructores.FilterGreyscaleBuilder" Collapsed="true">
+    <Position X="10" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\Constructores\FilterGreyscaleBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.Filtros.Constructores.FilterNegativeBuilder" Collapsed="true">
+    <Position X="12.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\Constructores\FilterNegativeBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.Filtros.Constructores.FilterPipeBuilder" Collapsed="true">
+    <Position X="14.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\Constructores\FilterPipeBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.Filtros.Constructores.FilterRenderBuilder" Collapsed="true">
+    <Position X="3.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\Constructores\FilterRenderBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.Filtros.Constructores.PipeBuilder" Collapsed="true">
+    <Position X="1.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAgABAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\Constructores\PipeBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PicEditor.Filtros.Constructores.PipeForkBuilder" Collapsed="true">
+    <Position X="2.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\Constructores\PipeForkBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.Filtros.Constructores.PipeNullBuilder" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\Constructores\PipeNullBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.Filtros.Constructores.PipeSerialBuilder" Collapsed="true">
+    <Position X="2.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\Constructores\PipeSerialBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.Filtros.FilterBlur" Collapsed="true">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\FilterBlur.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PicEditor.Filtros.FilterBW" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>Filtros\FilterBW.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PicEditor.Filtros.FilterComplex" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIIAAAAAAAAAAAAEAIABAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Filtros\FilterComplex.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.Filtros.FilterEmboss" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\FilterEmboss.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PicEditor.Filtros.FilterGeneral" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\FilterGeneral.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.Filtros.FilterGreyscale" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\FilterGreyscale.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PicEditor.Filtros.FilterNegative" Collapsed="true">
+    <Position X="14.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\FilterNegative.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PicEditor.Filtros.FilterPipe">
+    <Position X="17" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\FilterPipe.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PicEditor.Filtros.FilterRender" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\FilterRender.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PicEditor.Filtros.FilterTag" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Filtros\FilterTag.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PicEditor.Filtros.StaticMembers" Collapsed="true">
+    <Position X="21.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAAAAAAABABAAAAAAAABAAIQQCEABAAAAAAEABA=</HashCode>
+      <FileName>Filtros\StaticMembers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.Filtros.Pipes.DummyPipe" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAEAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\Pipes\DummyPipe.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PicEditor.Filtros.Pipes.PipeFork" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\Pipes\PipeFork.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PicEditor.Filtros.Pipes.PipeNull" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\Pipes\PipeNull.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PicEditor.Filtros.Pipes.PipeSerial" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAEAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Filtros\Pipes\PipeSerial.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PicEditor.Form1" Collapsed="true">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAGgaADKEi4BAAAACqAQACIgMhAhBABCQAEEKAwAg=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.FormSelector" Collapsed="true">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAACAAAAAAEACAEAAGAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormSelector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.Picture" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIBAAAAAAAAAAAAEAAAAAAAACAAAgAAAEAABA=</HashCode>
+      <FileName>Picture.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PicEditor.Program" Collapsed="true">
+    <Position X="23" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.GUI.HashListener" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAIAAAAAAAAIAQAAAAAAAAAAAAAAAAAAAgIA=</HashCode>
+      <FileName>GUI\HashListener.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PicEditor.GUI.ListenerSelector" Collapsed="true">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEACAAAAgAABCAAEACAAAAAAAoAAAAAAAAAAA=</HashCode>
+      <FileName>GUI\ListenerSelector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.GUI.MultipleListener" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAABAIAAAAAAAAQAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>GUI\MultipleListener.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PicEditor.Properties.Resources" Collapsed="true">
+    <Position X="24.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.Properties.Settings" Collapsed="true">
+    <Position X="19.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.TestCases.TestFiltros" Collapsed="true">
+    <Position X="23" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAEEAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TestCases\TestFiltros.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PicEditor.TestCases.TestPicture" Collapsed="true">
+    <Position X="24.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TestCases\TestPicture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="PicEditor.Filtros.Constructores.ITagBuilder" Collapsed="true">
+    <Position X="19.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgABAAAAAAAAAAAA=</HashCode>
+      <FileName>Filtros\Constructores\ITagBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

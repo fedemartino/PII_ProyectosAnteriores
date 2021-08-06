@@ -1,0 +1,193 @@
+Building documentation...
+Initializing...
+Merging XML documentation...
+Building file mapping...
+Loading XSLT files...
+    namespace.xslt
+    namespacehierarchy.xslt
+    type.xslt
+    typehierarchy.xslt
+    allmembers.xslt
+    individualmembers.xslt
+    event.xslt
+    member.xslt
+    memberoverload.xslt
+    property.xslt
+    field.xslt
+    htmlcontents.xslt
+Generating HTML pages...
+Obligatorio.html
+ObligatorioHierarchy.html
+Obligatorio.Coordenadas.html
+Obligatorio.CoordenadasMembers.html
+Obligatorio.CoordenadasConstructor.html
+Obligatorio.CoordenadasProperties.html
+Obligatorio.Coordenadas.X.html
+Obligatorio.Coordenadas.Y.html
+Obligatorio.Cuadrado.html
+Obligatorio.CuadradoMembers.html
+Obligatorio.CuadradoConstructor.html
+Obligatorio.CuadradoProperties.html
+Obligatorio.Cuadrado.Lado.html
+Obligatorio.CuadradoMethods.html
+Obligatorio.Cuadrado.CalcularVertices.html
+Obligatorio.Dibujo.html
+Obligatorio.DibujoMembers.html
+Obligatorio.DibujoConstructor.html
+Obligatorio.DibujoProperties.html
+Obligatorio.Dibujo.Componentes.html
+Obligatorio.Dibujo.Id.html
+Obligatorio.DibujoMethods.html
+Obligatorio.Dibujo.AgregarComponente.html
+Obligatorio.Downloader.html
+Obligatorio.DownloaderMembers.html
+Obligatorio.DownloaderConstructor.html
+Obligatorio.DownloaderProperties.html
+Obligatorio.Downloader.Url.html
+Obligatorio.DownloaderMethods.html
+Obligatorio.Downloader.Download.html
+Obligatorio.ExtraerTags.html
+Obligatorio.ExtraerTagsMembers.html
+Obligatorio.ExtraerTagsConstructor.html
+Obligatorio.ExtraerTagsMethods.html
+Obligatorio.ExtraerTags.DelimiTag.html
+Obligatorio.ITransformable.html
+Obligatorio.ITransformableMembers.html
+Obligatorio.ITransformableMethods.html
+Obligatorio.ITransformable.Transformar.html
+Obligatorio.ITransformacion.html
+Obligatorio.ITransformacionMembers.html
+Obligatorio.ITransformacionMethods.html
+Obligatorio.ITransformacion.HacerTransformacion.html
+Obligatorio.Parser.html
+Obligatorio.ParserMembers.html
+Obligatorio.ParserConstructor.html
+Obligatorio.ParserMethods.html
+Obligatorio.Parser.ParsearAtributos.html
+Obligatorio.Parser.TagParser.html
+Obligatorio.Pausar.html
+Obligatorio.PausarMembers.html
+Obligatorio.PausarConstructor.html
+Obligatorio.PausarMethods.html
+Obligatorio.Pausar.Perform.html
+Obligatorio.Pintar.html
+Obligatorio.PintarMembers.html
+Obligatorio.PintarConstructor.html
+Obligatorio.PintarMethods.html
+Obligatorio.Pintar.Perform.html
+Obligatorio.Poligono.html
+Obligatorio.PoligonoMembers.html
+Obligatorio.PoligonoConstructor.html
+Obligatorio.PoligonoFields.html
+Obligatorio.Poligono.puntos.html
+Obligatorio.PoligonoProperties.html
+Obligatorio.Poligono.Points.html
+Obligatorio.PoligonoMethods.html
+Obligatorio.Poligono.CalcularVertices.html
+Obligatorio.Poligono.Transformar.html
+Obligatorio.ProcesadorTags.html
+Obligatorio.ProcesadorTagsMembers.html
+Obligatorio.ProcesadorTagsConstructor.html
+Obligatorio.ProcesadorTagsMethods.html
+Obligatorio.ProcesadorTags.IdentificarProceso.html
+Obligatorio.Rectangulo.html
+Obligatorio.RectanguloMembers.html
+Obligatorio.RectanguloConstructor.html
+Obligatorio.RectanguloProperties.html
+Obligatorio.Rectangulo.Ancho.html
+Obligatorio.Rectangulo.Largo.html
+Obligatorio.RectanguloMethods.html
+Obligatorio.Rectangulo.CalcularVertices.html
+Obligatorio.Rotacion.html
+Obligatorio.RotacionMembers.html
+Obligatorio.RotacionConstructor.html
+Obligatorio.RotacionMethods.html
+Obligatorio.Rotacion.HacerTransformacion.html
+Obligatorio.SimetriaEjeX.html
+Obligatorio.SimetriaEjeXMembers.html
+Obligatorio.SimetriaEjeXConstructor.html
+Obligatorio.SimetriaEjeXMethods.html
+Obligatorio.SimetriaEjeX.HacerTransformacion.html
+Obligatorio.SimetriaEjeY.html
+Obligatorio.SimetriaEjeYMembers.html
+Obligatorio.SimetriaEjeYConstructor.html
+Obligatorio.SimetriaEjeYMethods.html
+Obligatorio.SimetriaEjeY.HacerTransformacion.html
+Obligatorio.Tags.html
+Obligatorio.TagsMembers.html
+Obligatorio.TagsConstructor.html
+Obligatorio.TagsProperties.html
+Obligatorio.Tags.Atributos.html
+Obligatorio.Tags.Nombre.html
+Obligatorio.Transformar.html
+Obligatorio.TransformarMembers.html
+Obligatorio.TransformarConstructor.html
+Obligatorio.TransformarMethods.html
+Obligatorio.Transformar.Perform.html
+Obligatorio.Traslacion.html
+Obligatorio.TraslacionMembers.html
+Obligatorio.TraslacionConstructor.html
+Obligatorio.TraslacionMethods.html
+Obligatorio.Traslacion.HacerTransformacion.html
+Obligatorio.Triangulo.html
+Obligatorio.TrianguloMembers.html
+Obligatorio.TrianguloConstructor.html
+Obligatorio.TrianguloProperties.html
+Obligatorio.Triangulo.Altura.html
+Obligatorio.Triangulo.BaseT.html
+Obligatorio.TrianguloMethods.html
+Obligatorio.Triangulo.CalcularVertices.html
+Obligatorio.Tests.html
+Obligatorio.TestsHierarchy.html
+Obligatorio.Tests.TestExtraerTags.html
+Obligatorio.Tests.TestExtraerTagsMembers.html
+Obligatorio.Tests.TestExtraerTagsConstructor.html
+Obligatorio.Tests.TestExtraerTagsMethods.html
+Obligatorio.Tests.TestExtraerTags.TestDelimiTag.html
+Obligatorio.Tests.TestParser.html
+Obligatorio.Tests.TestParserMembers.html
+Obligatorio.Tests.TestParserConstructor.html
+Obligatorio.Tests.TestParserMethods.html
+Obligatorio.Tests.TestParser.TestParsearAtributos.html
+Obligatorio.Tests.TestParser.TestTagParser.html
+Obligatorio.Tests.TestRotacion.html
+Obligatorio.Tests.TestRotacionMembers.html
+Obligatorio.Tests.TestRotacionConstructor.html
+Obligatorio.Tests.TestRotacionMethods.html
+Obligatorio.Tests.TestRotacion.TestHacerTransformacion.html
+Obligatorio.Tests.TestSimetriaEjeX.html
+Obligatorio.Tests.TestSimetriaEjeXMembers.html
+Obligatorio.Tests.TestSimetriaEjeXConstructor.html
+Obligatorio.Tests.TestSimetriaEjeXMethods.html
+Obligatorio.Tests.TestSimetriaEjeX.TestHacerTransformacion.html
+Obligatorio.Tests.TestSimetriaEjeY.html
+Obligatorio.Tests.TestSimetriaEjeYMembers.html
+Obligatorio.Tests.TestSimetriaEjeYConstructor.html
+Obligatorio.Tests.TestSimetriaEjeYMethods.html
+Obligatorio.Tests.TestSimetriaEjeY.TestHacerTransformacion.html
+Obligatorio.Tests.TestTraslacion.html
+Obligatorio.Tests.TestTraslacionMembers.html
+Obligatorio.Tests.TestTraslacionConstructor.html
+Obligatorio.Tests.TestTraslacionMethods.html
+Obligatorio.Tests.TestTraslacion.TestHacerTransformacion.html
+Generating HTML content file...
+transform the HHC contents file into html
+Compiling HTML Help file...
+Compiling Html Help file
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling c:\Documents and Settings\MG\Escritorio\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\bin\Debug\doc\ndoc_msdn_temp\Documentation.chm
+
+
+Compile time: 0 minutes, 6 seconds
+156	Topics
+978	Local links
+0	Internet links
+4	Graphics
+
+
+Created c:\Documents and Settings\MG\Escritorio\Obligatorio - Fros_Martín - Garmendia_Mathías\Obligatorio\bin\Debug\doc\ndoc_msdn_temp\Documentation.chm, 68,826 bytes
+Compression decreased file by 402,127 bytes.
+
+Html Help compile complete
+Done.

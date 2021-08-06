@@ -1,0 +1,124 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{60359516-7676-4183-9816-C7E84FB0DCC3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Obligatorio</RootNamespace>
+    <AssemblyName>Obligatorio</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\Obligatorio.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="nunit.core, Version=2.2.7.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL" />
+    <Reference Include="nunit.framework, Version=2.2.7.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Poligono.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ProcesadorTags.cs" />
+    <Compile Include="Coordenadas.cs" />
+    <Compile Include="Cuadrado.cs" />
+    <Compile Include="Dibujo.cs" />
+    <Compile Include="Downloader.cs" />
+    <Compile Include="ExtraerTags.cs" />
+    <Compile Include="ITransformable.cs" />
+    <Compile Include="ITransformacion.cs" />
+    <Compile Include="Pausar.cs" />
+    <Compile Include="Pintar.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Rectangulo.cs" />
+    <Compile Include="Rotacion.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SimetriaEjeX.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SimetriaEjeY.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Parser.cs" />
+    <Compile Include="Tags.cs" />
+    <Compile Include="Tests\TestExtraerTags.cs" />
+    <Compile Include="Tests\TestParser.cs" />
+    <Compile Include="Tests\TestRotacion.cs" />
+    <Compile Include="Tests\TestSimetriaEjeX.cs" />
+    <Compile Include="Tests\TestSimetriaEjeY.cs" />
+    <Compile Include="Tests\TestTraslacion.cs" />
+    <Compile Include="Transformar.cs" />
+    <Compile Include="Traslacion.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Triangulo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Libreria Obligatorio\Ejercicio3Lib.csproj">
+      <Project>{F829AF4F-906E-4645-A613-0F38F1BC82E3}</Project>
+      <Name>Ejercicio3Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="archivo.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

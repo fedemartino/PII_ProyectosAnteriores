@@ -1,0 +1,8 @@
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Libreria 2012\Libreria\Libreria\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Libreria 2012\Libreria\Libreria\obj\Debug\Drawing.FormBoard.resources
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Libreria 2012\Libreria\Libreria\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Libreria 2012\Libreria\Libreria\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Libreria 2012\Libreria\Libreria\bin\Debug\Libreria.dll
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Libreria 2012\Libreria\Libreria\bin\Debug\Libreria.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Libreria 2012\Libreria\Libreria\obj\Debug\Libreria.dll
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Libreria 2012\Libreria\Libreria\obj\Debug\Libreria.pdb

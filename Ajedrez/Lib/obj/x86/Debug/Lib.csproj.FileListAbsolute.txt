@@ -1,0 +1,9 @@
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\Lib\bin\Debug\Lib.exe
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\Lib\bin\Debug\Lib.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\Lib\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\Lib\obj\x86\Debug\Lib.Properties.Resources.resources
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\Lib\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\Lib\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\Lib\obj\x86\Debug\Lib.exe
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\Lib\obj\x86\Debug\Lib.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Semestre 1\Lib\obj\x86\Debug\Lib.Gui.resources

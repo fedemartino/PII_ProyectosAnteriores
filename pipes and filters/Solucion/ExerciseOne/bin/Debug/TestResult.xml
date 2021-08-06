@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\ExerciseOne\bin\Debug\ExerciseOne.exe" total="3" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2010-03-26" time="19:14:44">
+  <environment nunit-version="2.5.3.9345" clr-version="2.0.50727.4927" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Program Files\NUnit 2.5.3\bin\net-2.0" machine-name="HP-FEDE" user="Fede" user-domain="HP-Fede" />
+  <culture-info current-culture="es-UY" current-uiculture="en-US" />
+  <test-suite name="C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\ExerciseOne\bin\Debug\ExerciseOne.exe" executed="True" success="True" time="0.232" asserts="0">
+    <results>
+      <test-suite name="ExerciseOne" executed="True" success="True" time="0.148" asserts="0">
+        <results>
+          <test-suite name="TestParser" executed="True" success="True" time="0.126" asserts="0">
+            <results>
+              <test-suite name="parsearNodo" executed="True" success="True" time="0.104" asserts="0">
+                <results>
+                  <test-case name="ExerciseOne.TestParser.parsearNodo()" executed="True" success="True" time="0.097" asserts="5" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+      <test-suite name="Tests" executed="True" success="True" time="0.029" asserts="0">
+        <results>
+          <test-suite name="TestAtributos" executed="True" success="True" time="0.009" asserts="0">
+            <results>
+              <test-suite name="CrearAtributo" executed="True" success="True" time="0.004" asserts="0">
+                <results>
+                  <test-case name="Tests.TestAtributos.CrearAtributo()" executed="True" success="True" time="0.004" asserts="4" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+          <test-suite name="TestTag" executed="True" success="True" time="0.006" asserts="0">
+            <results>
+              <test-suite name="crearTag" executed="True" success="True" time="0.002" asserts="0">
+                <results>
+                  <test-case name="Tests.TestTag.crearTag()" executed="True" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

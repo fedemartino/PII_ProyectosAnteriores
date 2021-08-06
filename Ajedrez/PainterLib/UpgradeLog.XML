@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PainterLib">
+</Property><Property Name="Solution File" Value="C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Ejercicio 4 - PainterLib\PainterLib\PainterLib.sln">
+</Property><Property Name="Date" Value="miércoles, 04 de mayo de 2011">
+</Property><Property Name="Time" Value="18:07:51 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="PainterLib" Source="PainterLib.csproj" Description="Project file successfully backed up as C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Ejercicio 4 - PainterLib\PainterLib\Backup\PainterLib.csproj">
+</Event><Event ErrorLevel="0" Project="PainterLib" Source="Color.cs" Description="File successfully backed up as C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Ejercicio 4 - PainterLib\PainterLib\Backup\Color.cs">
+</Event><Event ErrorLevel="0" Project="PainterLib" Source="IBoard.cs" Description="File successfully backed up as C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Ejercicio 4 - PainterLib\PainterLib\Backup\IBoard.cs">
+</Event><Event ErrorLevel="0" Project="PainterLib" Source="IGui.cs" Description="File successfully backed up as C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Ejercicio 4 - PainterLib\PainterLib\Backup\IGui.cs">
+</Event><Event ErrorLevel="0" Project="PainterLib" Source="Impl\BoardModel.cs" Description="File successfully backed up as C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Ejercicio 4 - PainterLib\PainterLib\Backup\Impl\BoardModel.cs">
+</Event><Event ErrorLevel="0" Project="PainterLib" Source="Impl\BoardPainter.cs" Description="File successfully backed up as C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Ejercicio 4 - PainterLib\PainterLib\Backup\Impl\BoardPainter.cs">
+</Event><Event ErrorLevel="0" Project="PainterLib" Source="Impl\FormBoard.cs" Description="File successfully backed up as C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Ejercicio 4 - PainterLib\PainterLib\Backup\Impl\FormBoard.cs">
+</Event><Event ErrorLevel="0" Project="PainterLib" Source="Impl\FormBoard.designer.cs" Description="File successfully backed up as C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Ejercicio 4 - PainterLib\PainterLib\Backup\Impl\FormBoard.designer.cs">
+</Event><Event ErrorLevel="0" Project="PainterLib" Source="IPainter.cs" Description="File successfully backed up as C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Ejercicio 4 - PainterLib\PainterLib\Backup\IPainter.cs">
+</Event><Event ErrorLevel="0" Project="PainterLib" Source="IPoint.cs" Description="File successfully backed up as C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Ejercicio 4 - PainterLib\PainterLib\Backup\IPoint.cs">
+</Event><Event ErrorLevel="0" Project="PainterLib" Source="IShape.cs" Description="File successfully backed up as C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Ejercicio 4 - PainterLib\PainterLib\Backup\IShape.cs">
+</Event><Event ErrorLevel="0" Project="PainterLib" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Ejercicio 4 - PainterLib\PainterLib\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PainterLib" Source="Impl\FormBoard.resx" Description="File successfully backed up as C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2011\Ejercicio 4 - PainterLib\PainterLib\Backup\Impl\FormBoard.resx">
+</Event><Event ErrorLevel="1" Project="PainterLib" Source="PainterLib.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="PainterLib" Source="PainterLib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PainterLib" Source="PainterLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PainterLib" Source="PainterLib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,5 @@
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\TestProject1\obj\Debug\TestProject1.pdb

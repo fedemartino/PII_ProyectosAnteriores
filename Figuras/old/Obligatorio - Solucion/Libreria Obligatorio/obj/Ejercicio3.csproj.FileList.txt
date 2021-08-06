@@ -1,0 +1,16 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Ejercicio3.Properties.Resources.resources
+obj\Release\Ejercicio3.csproj.GenerateResource.Cache
+obj\Release\Ejercicio3.FormBoard.resources
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Ejercicio3.FormBoard.resources
+obj\Debug\Ejercicio3.Properties.Resources.resources
+obj\Debug\Ejercicio3.csproj.GenerateResource.Cache
+bin\Release\Ejercicio3.exe
+bin\Release\Ejercicio3.pdb
+obj\Release\Ejercicio3.exe
+obj\Release\Ejercicio3.pdb
+bin\Debug\Ejercicio3.pdb
+obj\Debug\Ejercicio3.pdb
+bin\Debug\Ejercicio3.dll
+obj\Debug\Ejercicio3.dll

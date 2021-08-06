@@ -1,0 +1,10 @@
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\Obligatorio - UcuLifeLib\UcuLifeLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\Obligatorio - UcuLifeLib\UcuLifeLib\obj\Debug\UcuLifeLib.MainGui.resources
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\Obligatorio - UcuLifeLib\UcuLifeLib\obj\Debug\ResGen.read.1.tlog
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\Obligatorio - UcuLifeLib\UcuLifeLib\obj\Debug\ResGen.write.1.tlog
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\Obligatorio - UcuLifeLib\UcuLifeLib\obj\Debug\UcuLifeLib.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\Obligatorio - UcuLifeLib\UcuLifeLib\bin\Debug\UcuLifeLib.dll
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\Obligatorio - UcuLifeLib\UcuLifeLib\bin\Debug\UcuLifeLib.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\Obligatorio - UcuLifeLib\UcuLifeLib\bin\Debug\PainterLib.dll
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\Obligatorio - UcuLifeLib\UcuLifeLib\bin\Debug\PainterLib.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\obligatorio\Obligatorio - UcuLifeLib\UcuLifeLib\obj\Debug\UcuLifeLib.dll

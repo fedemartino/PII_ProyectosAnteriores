@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Obligatorio.Properties.Resources.resources
+obj\Debug\Obligatorio.csproj.GenerateResource.Cache
+bin\Debug\Obligatorio.exe
+bin\Debug\Obligatorio.pdb
+bin\Debug\Ejercicio3Lib.dll
+bin\Debug\Ejercicio3Lib.pdb
+obj\Debug\Obligatorio.exe
+obj\Debug\Obligatorio.pdb
+bin\Debug\archivo.txt
+bin\Debug\nunit.core.dll
+bin\Debug\Obligatorio.XML

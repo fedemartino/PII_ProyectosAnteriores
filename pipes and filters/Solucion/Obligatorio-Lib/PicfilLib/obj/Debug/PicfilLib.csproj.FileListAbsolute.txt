@@ -1,0 +1,23 @@
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\Obligatorio-Lib\PicfilLib\bin\Debug\PicfilLib.dll
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\Obligatorio-Lib\PicfilLib\bin\Debug\PicfilLib.pdb
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\Obligatorio-Lib\PicfilLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\Obligatorio-Lib\PicfilLib\obj\Debug\PicfilLib.FormBoard.resources
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\Obligatorio-Lib\PicfilLib\obj\Debug\PicfilLib.RecordMacroDialog.resources
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\Obligatorio-Lib\PicfilLib\obj\Debug\PicfilLib.csproj.GenerateResource.Cache
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\Obligatorio-Lib\PicfilLib\obj\Debug\PicfilLib.dll
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\Obligatorio-Lib\PicfilLib\obj\Debug\PicfilLib.pdb
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\Obligatorio-Lib\PicfilLib\bin\Debug\PicfilLib.dll
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\Obligatorio-Lib\PicfilLib\bin\Debug\PicfilLib.pdb
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\Obligatorio-Lib\PicfilLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\Obligatorio-Lib\PicfilLib\obj\Debug\PicfilLib.FormBoard.resources
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\Obligatorio-Lib\PicfilLib\obj\Debug\PicfilLib.RecordMacroDialog.resources
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\Obligatorio-Lib\PicfilLib\obj\Debug\PicfilLib.dll
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\Obligatorio-Lib\PicfilLib\obj\Debug\PicfilLib.pdb
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\Obligatorio-Lib\PicfilLib\bin\Debug\PicfilLib.dll
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\Obligatorio-Lib\PicfilLib\bin\Debug\PicfilLib.pdb
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\Obligatorio-Lib\PicfilLib\obj\Debug\PicfilLib.csprojResolveAssemblyReference.cache
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\Obligatorio-Lib\PicfilLib\obj\Debug\PicfilLib.FormBoard.resources
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\Obligatorio-Lib\PicfilLib\obj\Debug\PicfilLib.RecordMacroDialog.resources
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\Obligatorio-Lib\PicfilLib\obj\Debug\PicfilLib.csproj.GenerateResource.Cache
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\Obligatorio-Lib\PicfilLib\obj\Debug\PicfilLib.dll
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\Obligatorio-Lib\PicfilLib\obj\Debug\PicfilLib.pdb

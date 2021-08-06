@@ -1,0 +1,13 @@
+﻿<root>
+<filter-blackwhite Threshold="99" Name="Blanco y Negro" />
+<filter-negative Name="Negativo" />
+<filter-blur Name="Suavizado" />
+<filter-render Name="Desplegar" />
+<filter-emboss Name="Relieve" />
+<filter-greyscale Name="Escala de Grises" />
+<pipe-null Name="Fin_Macro1" />
+<pipe-serial Next="Fin_Macro1" Filter="negativo" Name="paso1" />
+<pipe-serial Next="paso1" Filter="suavizado" Name="paso2" />
+<pipe-serial Next="paso2" Filter="negativo" Name="paso3" />
+<macro FirstStep="paso3" Name="Macro1" />
+</root>

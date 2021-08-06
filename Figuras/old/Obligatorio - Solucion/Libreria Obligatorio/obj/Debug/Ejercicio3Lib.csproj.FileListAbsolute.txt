@@ -1,0 +1,24 @@
+C:\Documents and Settings\ingenieria\Mis documentos\Marcela Rodríguez\POO\Santiago\Obligatorios\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ingenieria\Mis documentos\Marcela Rodríguez\POO\Santiago\Obligatorios\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\obj\Debug\Drawing.FormBoard.resources
+C:\Documents and Settings\ingenieria\Mis documentos\Marcela Rodríguez\POO\Santiago\Obligatorios\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\obj\Debug\Drawing.Properties.Resources.resources
+C:\Documents and Settings\ingenieria\Mis documentos\Marcela Rodríguez\POO\Santiago\Obligatorios\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\obj\Debug\Ejercicio3Lib.csproj.GenerateResource.Cache
+C:\Documents and Settings\ingenieria\Mis documentos\Marcela Rodríguez\POO\Santiago\Obligatorios\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\obj\Debug\Ejercicio3Lib.dll
+C:\Documents and Settings\ingenieria\Mis documentos\Marcela Rodríguez\POO\Santiago\Obligatorios\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\obj\Debug\Ejercicio3Lib.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2_2006\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2_2006\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\obj\Debug\Drawing.FormBoard.resources
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2_2006\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2_2006\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\obj\Debug\Ejercicio3Lib.dll
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2_2006\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\obj\Debug\Ejercicio3Lib.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2_2006\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\bin\Debug\Ejercicio3Lib.dll.config
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2_2006\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\bin\Debug\Ejercicio3Lib.dll
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio\2_2006\obligatorio200602\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\bin\Debug\Ejercicio3Lib.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\obj\Debug\Drawing.FormBoard.resources
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\obj\Debug\Ejercicio3Lib.dll
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\obj\Debug\Ejercicio3Lib.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\bin\Debug\Ejercicio3Lib.dll.config
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\bin\Debug\Ejercicio3Lib.dll
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\bin\Debug\Ejercicio3Lib.pdb
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Fede\Documents\Facultad\POO\Obligatorio 2012-1\Obligatorio - Fros_Martín - Garmendia_Mathías\Libreria Obligatorio\obj\Debug\GenerateResource.write.1.tlog

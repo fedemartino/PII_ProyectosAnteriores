@@ -1,0 +1,30 @@
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\ExerciseOne\bin\Debug\ExerciseOne.exe
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\ExerciseOne\bin\Debug\ExerciseOne.pdb
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\ExerciseOne\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.exe
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.pdb
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\ExerciseOne\bin\Debug\Archivo.txt
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\ExerciseOne\bin\Debug\nunit.framework.dll
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\ExerciseOne\ExerciseOne\bin\Debug\nunit.framework.xml
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\ExerciseOne\bin\Debug\Archivo.txt
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\ExerciseOne\bin\Debug\ExerciseOne.exe
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\ExerciseOne\bin\Debug\ExerciseOne.pdb
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\ExerciseOne\bin\Debug\nunit.framework.dll
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\ExerciseOne\bin\Debug\nunit.framework.xml
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\ExerciseOne\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\ExerciseOne\obj\Debug\ExerciseOne.exe
+C:\Users\Fede\Documents\Facultad\Programación Orientada a Objetos\Projects\Entrega\ExerciseOne\obj\Debug\ExerciseOne.pdb
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\ExerciseOne\bin\Debug\Archivo.txt
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\ExerciseOne\bin\Debug\ExerciseOne.exe
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\ExerciseOne\bin\Debug\ExerciseOne.pdb
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\ExerciseOne\bin\Debug\nunit.framework.xml
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\ExerciseOne\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\ExerciseOne\obj\Debug\ExerciseOne.exe
+C:\Users\Fede\Documents\Facultad\Archive\Programación Orientada a Objetos\Projects\Entrega\ExerciseOne\obj\Debug\ExerciseOne.pdb
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\ExerciseOne\bin\Debug\Archivo.txt
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\ExerciseOne\bin\Debug\ExerciseOne.exe
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\ExerciseOne\bin\Debug\ExerciseOne.pdb
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\ExerciseOne\bin\Debug\nunit.framework.xml
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\ExerciseOne\obj\Debug\TagParser.csprojResolveAssemblyReference.cache
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\ExerciseOne\obj\Debug\ExerciseOne.exe
+C:\Users\Fede\Dropbox\Facultad\POO\Obligatorios\2012\Semestre 2\Solucion\ExerciseOne\obj\Debug\ExerciseOne.pdb
